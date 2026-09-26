@@ -16,8 +16,8 @@ This is a work order template and a set of rules. It forces the executor to corr
 * It is not a software framework.
 * It does not require any specific tool, plugin, or installation.
 
-## Companion Piece
-This template says how you ask. To see how the agent proves its work, check out the [evidence-contracts](https://github.com/edgebuildlabs/evidence-contracts).
+## Companion Pieces
+This template says how you ask. To see how the agent proves its work, check out the [evidence-contracts](https://github.com/edgebuildlabs/evidence-contracts). To talk to an agent that runs somewhere else, the [channel-contract](https://github.com/edgebuildlabs/channel-contract). For whose word an action needs, how that word travels, and what may run with no word at all, the [mandate-contract](https://github.com/edgebuildlabs/mandate-contract).
 
 ## License
 CC0 1.0 Universal. See `LICENSE` for details.
